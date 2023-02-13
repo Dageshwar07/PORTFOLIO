@@ -6,9 +6,17 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "framer-motion": "^9.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icon": "^1.0.0",
+    "react-icons": "^4.7.1",
     "react-scripts": "5.0.1",
+    "react-scroll": "^1.8.9",
+    "react-simple-typewriter": "^5.0.1",
+    "react-slick": "^0.29.0",
+    "scroll": "^3.0.1",
+    "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
   }
 }
